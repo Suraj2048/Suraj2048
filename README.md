@@ -55,7 +55,4 @@
 
 ⭐ **Let's connect!** 😊  
 📩 **Email:** sk.surajkarn@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/suraj-karn-828786257](https://www.linkedin.com/in/suraj-karn-828786257)  
-🔢 **LeetCode:** [leetcode.com/u/devil2048](https://leetcode.com/u/devil2048/)  
-🏆 **Codeforces:** [codeforces.com/profile/devil2048](https://codeforces.com/profile/devil2048)  
-💬 **Stack Overflow:** [stackoverflow.com/users/26608613/devil](https://stackoverflow.com/users/26608613/devil)
+🔗 **LinkedIn:** [linkedin.com/in/suraj-karn-828786257](https://www.linkedin.com/in/suraj-karn-828786257)
